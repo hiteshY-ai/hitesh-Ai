@@ -1,0 +1,10 @@
+# Python is case sensative language
+print('Hello World')
+print ("I am the King")
+print('King')
+print(7.7)
+print(True)
+print('Hello', 1, 2, 2.5, True)
+print('Hello', 1, 2, 2.5, True, sep='+')
+print('Hello')
+print('World')
